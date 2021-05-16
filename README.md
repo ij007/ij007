@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishant
-- 👀 I’m interested in Machine Learning, Gaming and editing.
+- 👀 I’m interested in Machine Learning, Gaming and editing videos and stuff.
 - 🌱 I’m currently learning Data Science.
 - 📫 How to reach me ishantjindal30@gmail.com
 
