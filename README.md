@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flask.**
 
-- 👯 I’m looking to collaborate on **reinventing ideas.**
-
 - 📝 I regularly write articles on [https://ij007.medium.com/](https://ij007.medium.com/)
 
 - 💬 Ask me about **DSA.**
