@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ij007.medium.com/](https://ij007.medium.com/)
 
-- 💬 Ask me about **DSA.**
+- 💬 Ask me about **DSA, ML**.
 
 - 📫 How to reach me **ishantjindal30@gmail.com**
 
