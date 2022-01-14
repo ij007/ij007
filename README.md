@@ -5,7 +5,7 @@
 
 <img align="right" height="280" src="assets/interests.png"/>
 
-- 🔭 I’m currently working on **Data Science projects**
+- 🔭 I’m currently working on **Something interesting :)**
 
 - 🌱 I’m currently learning **Flask.**
 
